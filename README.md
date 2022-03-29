@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukasKompatscher
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java, C , C#
+- 🌱 I’m currently learning Java, C , C#, PHP, HTML, Pascal, Python
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me EMail lukas.kompatscher@gmail.com
 
