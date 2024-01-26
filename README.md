@@ -1,4 +1,6 @@
-# 👋 Hi, I’m @LukasKompatscher
+![Banner](./banner.png)
+
+# Hi, I’m @LukasKompatscher
 
 ## Skills
 
