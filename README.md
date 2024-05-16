@@ -10,4 +10,4 @@
 
 ## Currently Learning:
 
-    Elixir
+    Elixir, Rust
